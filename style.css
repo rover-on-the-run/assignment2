@@ -4,10 +4,12 @@
 }
 .header
 {
+    
     height: 100vh;
 }
 .nabar-style
 {
+    
     box-shadow: 0 5px 10px #efefef;
     text-transform: uppercase;
 
@@ -61,3 +63,18 @@ a.btn:hover
     transition: 0.3s;
 
 }
+
+.footer {
+    height: 20vh;
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(13, 134, 182);
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  margin: 5px 0;
+  color: blueviolet;
+}
+
